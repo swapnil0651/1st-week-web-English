@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+      <title> HTML Entities  </title>
+</head>
+<body>
+<p> copyringht &copy; </p>
+<p> 2 &lt; 5 </p>
+<p> 10 &gt; 3</p>
+<p> &#8377; </p>
+</body>
+</html>
